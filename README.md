@@ -1,13 +1,13 @@
-# Travel-App-React-Native
+# Food-Recipe-App-React-Native
 
-![Image](https://cdn.dribbble.com/userupload/8935865/file/original-d12945cfd7c13ef50f9d2294d07dc53b.png?compress=1&resize=2048x1536)
+![Image](https://cdn.dribbble.com/userupload/9661662/file/original-ce9fa19b4cedbd0c7eae7fd797f86462.png?compress=1&resize=1600x1200)
 
   
   <p align="left">
     <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    <p>
-      Watch Tutorial on YouTube <a href="https://youtu.be/vV9zIDgT4Ik" target="_blank">Travel App in React Native</a>
-    </p>
+    <!-- <p>
+      Watch Tutorial on YouTube <a href="https://youtu.be/vV9zIDgT4Ik" target="_blank">Food Recipe App in React Native with Reanimated</a>
+    </p> -->
     
   </p>
   
